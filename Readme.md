@@ -1,5 +1,5 @@
 Olá! 
-Esse projeto resolve o seguinte Problema:
+Esse projeto resolve a seguinte Situação:
 
 Faça uma função calculadora que os números e as operações serão feitas pelo usuário. O código deve ficar rodando infinitamente até que o usuário escolha a opção de sair. No início, o programa mostrará a seguinte lista de operações:
 
