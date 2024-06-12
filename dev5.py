@@ -1,4 +1,4 @@
-# Iniciando o Parametro operacao com valor diferente.
+# Iniciando o Parâmetro operacao com valor diferente.
 operacao = None
 
 # Definindo a função da Calculadora.
@@ -16,7 +16,7 @@ def calculadora (num1,num2,operacao):
         return num1 / num2
     
     
-# Coletando os Parametros da Calculadora:
+# Coletando os Parâmetros da Calculadora:
 while operacao !=0:
     operacao = int(input("Escolha a operação (1: Soma, 2: Subtração, 3: Multiplicação, 4: Divisão, 0: Sair da Calculadora): "))
 
